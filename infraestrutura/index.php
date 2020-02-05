@@ -1,4 +1,4 @@
-<form method = "POST" action = "uno.php">
+<form method = "POST" action = "insertarCampo.php">
     nombre:
     <input type = "text" name = "nombre"> <br>
     apellido:
